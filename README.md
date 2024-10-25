@@ -6,4 +6,4 @@ Dataset ini memiliki total 575 baris dan 5 kolom atau variabel, dengan deskripsi
 2. LevelAsset: Mengindikasikan tingkat keparahan dan kategori aset yang terpengaruh oleh ancaman, seperti Critical atau Medium.
 3. IPCategory: Mengidentifikasi kategori alamat IP yang terlibat dalam insiden, termasuk kategori Internal, External, atau Unknown.
 4. Mitre: Menunjukkan kesesuaian teknik serangan yang diidentifikasi dengan framework **MITRE ATT&CK**, yang digunakan untuk menggambarkan taktik dan teknik ancaman.
-5. Alert: Memberikan hasil deteksi keamanan, menunjukkan apakah ancaman tersebut valid (*Positif) atau tidak (Negatif). Kolom ini juga berfungsi sebagai label atau untuk tujuan supervisi.
+5. Alert: Memberikan hasil deteksi keamanan, menunjukkan apakah ancaman tersebut valid (Positif) atau tidak (Negatif). Kolom ini juga berfungsi sebagai label atau untuk tujuan supervisi.
