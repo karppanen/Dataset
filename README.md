@@ -2,8 +2,8 @@ Dataset ini berasal dari penyedia sistem deteksi intrusi, yang berfungsi mencata
 
 Dataset ini memiliki total *575 baris* dan *5 kolom* atau variabel, dengan deskripsi sebagai berikut:
 
-1. *Timestamp: Menunjukkan waktu spesifik kapan sebuah *alert keamanan terdeteksi oleh sistem.
-2. *Level Asset: Mengindikasikan tingkat keparahan dan kategori aset yang terpengaruh oleh ancaman, seperti *Critical atau Medium.
-3. *IP Category: Mengidentifikasi kategori alamat IP yang terlibat dalam insiden, termasuk kategori *Internal, External, atau Unknown.
-4. *Mitre: Menunjukkan kesesuaian teknik serangan yang diidentifikasi dengan framework *MITRE ATT&CK, yang digunakan untuk menggambarkan taktik dan teknik ancaman.
-5. *Alert: Memberikan hasil deteksi keamanan, menunjukkan apakah ancaman tersebut valid (*Positif) atau tidak (Negatif). Kolom ini juga berfungsi sebagai label atau untuk tujuan supervisi.
+1. Timestamp: Menunjukkan waktu spesifik kapan sebuah *alert keamanan terdeteksi oleh sistem.
+2. Level Asset: Mengindikasikan tingkat keparahan dan kategori aset yang terpengaruh oleh ancaman, seperti *Critical atau Medium.
+3. IP Category: Mengidentifikasi kategori alamat IP yang terlibat dalam insiden, termasuk kategori *Internal, External, atau Unknown.
+4. Mitre: Menunjukkan kesesuaian teknik serangan yang diidentifikasi dengan framework *MITRE ATT&CK, yang digunakan untuk menggambarkan taktik dan teknik ancaman.
+5. Alert: Memberikan hasil deteksi keamanan, menunjukkan apakah ancaman tersebut valid (*Positif) atau tidak (Negatif). Kolom ini juga berfungsi sebagai label atau untuk tujuan supervisi.
